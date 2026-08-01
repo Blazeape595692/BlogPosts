@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-General/Lifestyle/Living on the floor.md",
+                "file": "0-General/My First Blog Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Living on the floor"
+              "title": "My First Blog Post"
             }
           }
         ],
@@ -211,12 +211,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7174984dbbf33a59",
+  "active": "632ea29219322c52",
   "lastOpenFiles": [
-    "0-General/Pyrognosis.md",
-    "0-General/Lifestyle/Living on the floor.md",
-    "0-General/Lifestyle/Living Sustainably.md",
     "Media/Pyrognosis.png",
+    "0-General/Pyrognosis.md",
+    "0-General/Lifestyle/Living Sustainably.md",
+    "0-General/Lifestyle/Living on the floor.md",
     "Media/majestic-phoenix-rising-stockcake.jpg",
     "0-General/Untitled",
     "Living.md",
