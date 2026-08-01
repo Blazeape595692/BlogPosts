@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-General/My First Blog Post.md",
+                "file": "0-General/Pyrognosis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "My First Blog Post"
+              "title": "Pyrognosis"
             }
           }
         ],
@@ -211,12 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "632ea29219322c52",
+  "active": "7174984dbbf33a59",
   "lastOpenFiles": [
-    "Media/Pyrognosis.png",
+    "0-General/My First Blog Post.md",
     "0-General/Pyrognosis.md",
-    "0-General/Lifestyle/Living Sustainably.md",
     "0-General/Lifestyle/Living on the floor.md",
+    "Media/Pyrognosis.png",
+    "0-General/Lifestyle/Living Sustainably.md",
     "Media/majestic-phoenix-rising-stockcake.jpg",
     "0-General/Untitled",
     "Living.md",

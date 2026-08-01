@@ -1,6 +1,6 @@
 ---
-created: 2026-8-1T12:13
-updated: 2026-8-1T12:13
+created: 2026-08-01T12:13
+updated: 2026-08-01T12:13
 ---
 
 Pyrognosis is the idea of learning from fire and understanding it's wisdom. Taking inspirations from Marxism, Stirner's egoism and Daoism.
