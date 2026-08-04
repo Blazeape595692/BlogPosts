@@ -1,23 +1,23 @@
 ---
 created: 2026-08-01T12:13
-updated: 2026-08-01T12:13
+updated: 2026-08-04T22:17
 ---
 
-Pyrognosis is the idea of learning from fire and understanding it's wisdom. Taking inspirations from Marxism, Stirner's egoism and Daoism.
+Pyrognosis is the idea of learning from fire and understanding it's wisdom. Taking inspirations from Marxism, Stirner's egoism, Buddhism and Daoism. It rejects rigidity. Do not let one think become  
 
-# The Three Lessons of Fire
+# The Four Pillars of Pyrognosis
 
-**The First Flame — Freedom**  
-Fire burns according to its own nature. Do not let others decide what your flame should be. Question every belief before feeding it.
+**Critique - Fuel** 
+Fire gives light before it gives comfort. A flame that fears examination is only smoke.
 
-**The Second Flame — Fuel**  
-Even the brightest fire dies without fuel. Ideas alone are not enough. Attend to the material conditions that sustain life and those around you.
+**Mindfulness — Heat**  
+Fire does not dwell on how it was sparked or when it will go out. While it burns, it burns brightly.
 
-**The Third Flame — Wind**  
-Fire does not command the wind; it dances with it. Adapt to changing circumstances instead of fighting them.
+**Flexibility— Oxygen**  
+Fire does not command the wind; it dances with it, using the air to burn brighter.
 
-**The Fourth Flame — Light**
-Fire gives light before it gives comfort. Seek what illuminates reality, even when it challenges what you wish were true. A flame that fears examination is only smoke.
+**Freedom — The Chain Reaction**
+Fire burns according to its own nature. Do not let others decide what your flame should be. 
 
 # Sayings
 
@@ -46,6 +46,8 @@ You may add to the fire of knowledge. But never believe you added all you could 
 Do not believe your own fire of knowledge is the bonfire of knowledge. 
 
 No flame is sacred. Every flame may be examined.
+
+Feed the flame not the ashes.
 
 # Ritual 
 
