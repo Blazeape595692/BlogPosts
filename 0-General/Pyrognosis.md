@@ -3,11 +3,15 @@ created: 2026-08-01T12:13
 updated: 2026-08-04T22:17
 ---
 
-Pyrognosis is the idea of learning from fire and understanding it's wisdom. Taking inspirations from Marxism, Stirner's egoism, Buddhism and Daoism. It rejects rigidity. Do not let one think become  
+Pyrognosis is the idea of learning from fire and understanding it's wisdom. Taking inspirations from Marxism, Stirner's egoism, Buddhism and Daoism, it emphasises freedom, critique, mindfulness, flexibility as the four central pillars.
+
+Do not let one thing become your sole focus. Do not let your thoughts and feelings be your master. Do not accept that present conditions are unchangeable. Have your own will, but do not impose it on others. Learn and understand what your fire needs and let it burn bright. But do not let it become all consuming. 
+
+As Pyrognosis holds freedom as a core pillar. None of the practice or rituals are mandatory. Heck following Pyrognosis isn't mandatory. Do as you wish. Take what is useful, leave what is not.
 
 # The Four Pillars of Pyrognosis
 
-**Critique - Fuel** 
+**Critique - Fuel**
 Fire gives light before it gives comfort. A flame that fears examination is only smoke.
 
 **Mindfulness — Heat**  
@@ -49,6 +53,18 @@ No flame is sacred. Every flame may be examined.
 
 Feed the flame not the ashes.
 
-# Ritual 
+# Rituals 
 
-Take lessons from the Phoenix as it dies and transforms into something new.  Use the winter solstice as a day of fasting and reflection. Write down who you are, what are your wants and goals, your desires. On this day eat nothing but eggs or seeds. On the summer solstice as a day of joy and renewal. Burn up your old writing of who you were, celebrate who you are. Pay no mind to who you were.  End your day by eating spicy poultry or spicy tofu. Feed the flame, not the ashes.
+## Phoenix Day
+Take lessons from the Phoenix as it dies and transforms into something new.  Use the winter solstice as a day of fasting and reflection. Write down who you are, what are your wants and goals, your desires. On this day Some practitioners may choose to fast or eat only simple foods, such as eggs or seeds, as a reminder of potential and renewal. On the summer solstice as a day of joy and renewal. Burn up your old writing of who you were, celebrate who you are. Pay no mind to who you were.  End your day by eating spicy poultry or spicy tofu. Feed the flame, not the ashes.
+
+## Death
+In death, let your body join a new flame through cremation. Let your urn be adorned with the symbol of Pyrognosis. If you die after the winter solstice and before the summer solstice, you may choose to have your final written reflection cremated with you.
+
+As a final rite, a separate bonfire may be lit with one blank sheet of paper for each year of your life. Let the papers burn as a symbol of every path left untaken, while your own reflection returns to the flame with you. For those other paths were never yours. Only the path you walked was ever truly your own.
+# Practices
+Enjoy spicy food if you wish. Feel the fire in your mouth. Let it nourish you.
+
+Use fire powers as much as possible in games with elemental powers in them.
+
+Fire Meditation - Sit before a candle or fire. Let the flame be your anchor. When your thoughts wander, gently return your attention to the fire. Reflect on the four pillars as the flame burns.
