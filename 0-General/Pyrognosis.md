@@ -3,9 +3,11 @@ created: 2026-08-01T12:13
 updated: 2026-08-04T22:17
 ---
 
-Pyrognosis is the idea of learning from fire and understanding it's wisdom. Taking inspirations from Marxism, Stirner's egoism, Buddhism and Daoism, it emphasises freedom, critique, mindfulness, flexibility as the four central pillars.
+Pyrognosis is the idea of learning from fire and understanding it's wisdom. Developed in collaboration between Blazeape59562 & Iroh former General and Prince of the Fire Nation. As Iroh saw the connection between the flexibility of water, the mindfulness of air and earth's willingness to change the material conditions around them. He saw the distortion of Fire as a force of destruction. From the other elements he learned the true nature of fire. As pure life, unbound by another's will. Well it can destroy it can, fire gives warmth, transforms what it touches, and burns freely rather than existing as another's tool.
 
-Do not let one thing become your sole focus. Do not let your thoughts and feelings be your master. Do not accept that present conditions are unchangeable. Have your own will, but do not impose it on others. Learn and understand what your fire needs and let it burn bright. But do not let it become all consuming. 
+Drawing inspiration from Marx's critique of material conditions, Stirner's egoism, Buddhist mindfulness, and Daoist flexibility, Blazeape59562 developed Pyrognosis around four central pillars: **Freedom, Critique, Mindfulness, and Flexibility**.
+
+Though freedom is often mistaken for chaos or destruction, Pyrognosis teaches that a well-tended flame illuminates, warms, and transforms rather than consumes.
 
 As Pyrognosis holds freedom as a core pillar. None of the practice or rituals are mandatory. Heck following Pyrognosis isn't mandatory. Do as you wish. Take what is useful, leave what is not.
 
