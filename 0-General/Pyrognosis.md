@@ -21,7 +21,7 @@ Fire gives light before it gives comfort. A flame that fears examination is only
 
 Fire does not dwell on how it was sparked or when it will go out. While it burns, it burns brightly.
 
-**Flexibility - Oxygen - Yin Yang**  
+**Flexibility - Oxygen - Taijitu**  
 
 Fire does not command the wind; it dances with it, using the air to burn brighter.
 
