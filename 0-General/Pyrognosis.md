@@ -13,19 +13,19 @@ As Pyrognosis holds freedom as a core pillar. None of the practice or rituals ar
 
 # The Four Pillars of Pyrognosis
 
-**Critique - Fuel**
+**Critique - Fuel - Eye of Horus**
 
 Fire gives light before it gives comfort. A flame that fears examination is only smoke.
 
-**Mindfulness — Heat**  
+**Mindfulness - Heat - Ouroboros**  
 
 Fire does not dwell on how it was sparked or when it will go out. While it burns, it burns brightly.
 
-**Flexibility— Oxygen**  
+**Flexibility - Oxygen - Yin Yang**  
 
 Fire does not command the wind; it dances with it, using the air to burn brighter.
 
-**Freedom — The Chain Reaction**
+**Freedom - The Chain Reaction - Phoenix**
 
 Fire burns according to its own nature. Do not let others decide what your flame should be. 
 
